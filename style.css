@@ -1,0 +1,38 @@
+#qrcode{
+    width:400px;
+    height: 600px;
+    margin: auto;
+    border-style:hidden;
+    background-color:hsl(0, 0%, 100%);
+    border-radius: 25px;
+    margin-top: 250px;
+}
+h4{
+    color:hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-weight: 400 bold;
+    letter-spacing: 0.1em;
+}
+h2{
+    color:hsl(218, 44%, 22%);
+    font-weight: 700 bolder;
+}
+#image{
+    width: 360px;
+    height: 370px;
+    border-radius: 40px;
+    padding: 20px;
+}
+body{
+    background-color: hsl(220, 15%, 55%);
+}
+.text{
+    text-align: center;
+    font-family:"Outfit-ExtraBold" , sans-serif;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.flexbox{
+    display: flex;
+    flex: 140px;
+}
